@@ -1,6 +1,6 @@
 # 💬 PingMe - Real-Time Chat App
 
-PingMe is a modern, real-time messaging application built with **Flutter** and **Firebase**. It features a robust privacy-focused architecture, instant messaging, and live user status updates. It's UI/UX and frontend is being designed by [Lavanya Karthikeyan]([url]("https://github.com/lavanya-3006")), while the backend process, and conversion of idea into fully working application is made by [Anbuchelvan VK]([url](https://github.com/anbuchelvanvk)) (Myself).
+PingMe is a modern, real-time messaging application built with **Flutter** and **Firebase**. It features a robust privacy-focused architecture, instant messaging, and live user status updates. It's UI/UX and frontend is being designed by [Lavanya Karthikeyan](https://github.com/lavanya-3006), while the backend process, and conversion of idea into fully working application is made by [Anbuchelvan VK](https://github.com/anbuchelvanvk) (Myself).
 
 ## ✨ Features
 
@@ -35,8 +35,8 @@ PingMe implements a robust security model to protect user data:
 
 ## 🌟 Credits
 
-- **Frontend Design & UI/UX**: [Lavanya Karthikeyan]([url](https://github.com/lavanya-3006)) (A Big Thankyou!)
-- **Development**: [Anbuchelvan VK]([url](https://github.com/anbuchelvanvk))
+- **Frontend Design & UI/UX**: [Lavanya Karthikeyan](https://github.com/lavanya-3006) (A Big Thankyou!)
+- **Development**: [Anbuchelvan VK](https://github.com/anbuchelvanvk)
 
 ## 🚀 Getting Started
 
