@@ -47,10 +47,11 @@ PingMe implements a robust security model to protect user data:
 ### Installation
 
 1. **Clone the repository**
-   ```git clone [https://github.com/your-username/pingme.git](https://github.com/your-username/pingme.git)```
+   ```bash git clone [https://github.com/your-username/pingme.git](https://github.com/your-username/pingme.git)```
+   
    ```cd pingme```
    
-2. **Install Dependencies**
+3. **Install Dependencies**
 ```flutter pub get```
 
 3 **Firebase Setup**
