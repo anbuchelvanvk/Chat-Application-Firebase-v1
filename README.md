@@ -52,7 +52,7 @@ PingMe implements a robust security model to protect user data:
    
    ```cd pingme```
    
-3. **Install Dependencies**
+2. **Install Dependencies**
 
 ```flutter pub get```
 
