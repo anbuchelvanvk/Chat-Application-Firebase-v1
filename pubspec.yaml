@@ -1,0 +1,51 @@
+name: pingme
+description: "PingMe - An Usual Chat App."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Firebase (LOCKED to compatible versions)
+  firebase_core: 4.4.0
+  firebase_auth: 6.1.4
+  cloud_firestore: 6.1.2
+  google_fonts: 8.0.0
+  image_picker: ^1.2.1
+  firebase_storage: ^13.0.6
+  image_cropper: ^11.0.0
+  firebase_messaging: ^16.1.1
+  flutter_local_notifications: ^20.0.0
+  flutter_launcher_icons: ^0.14.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+# 🔴 THIS IS THE MOST IMPORTANT PART 🔴
+# Prevents firebase_auth_web PromiseJsImpl crash
+dependency_overrides:
+  web: 1.1.1
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter_24pt-Regular.ttf
+        - asset: assets/fonts/Inter_24pt-Medium.ttf
+        - asset: assets/fonts/Inter_24pt-SemiBold.ttf
+        - asset: assets/fonts/Inter_24pt-Bold.ttf
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
