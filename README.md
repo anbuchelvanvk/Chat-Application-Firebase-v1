@@ -47,11 +47,13 @@ PingMe implements a robust security model to protect user data:
 ### Installation
 
 1. **Clone the repository**
-   ```bash git clone [https://github.com/your-username/pingme.git](https://github.com/your-username/pingme.git)```
+
+   ```git clone [https://github.com/your-username/pingme.git](https://github.com/your-username/pingme.git)```
    
    ```cd pingme```
    
 3. **Install Dependencies**
+
 ```flutter pub get```
 
 3 **Firebase Setup**
@@ -61,6 +63,7 @@ PingMe implements a robust security model to protect user data:
 - Copy your google-services.json (Android) and GoogleService-Info.plist (iOS) into the respective folders.
 
 4. **Run the App**
+
 ```flutter run```
 
 🤝 Contributing
